@@ -1,0 +1,17 @@
+1. Libraries used:
+a. OkHttp - for http requests
+b. Picasso - for displaying images 
+c. Gson - for deserializing the json data
+
+2. API to get the users
+ https://reqres.in/
+
+3. Codelab to understand the recycler view
+https://codelabs.developers.google.com/codelabs/android-training-create-recycler-view/index.html?index=..%2F..android-training#0
+
+4. Other components
+Progress bar: codepath - https://guides.codepath.com/android/handling-progressbars
+
+5. gitignore: https://stackoverflow.com/questions/16736856/what-should-be-in-my-gitignore-for-an-android-studio-project
+
+6. Copying android project from one folder to another: https://en.proft.me/2017/06/28/how-copy-project-android-studio/
